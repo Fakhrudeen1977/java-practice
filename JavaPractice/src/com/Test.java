@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("Working in Main Branch");
 		System.out.println("Merging Conflict");
 		System.out.println("Adding Lines");		
+		System.out.println("Adding New Line");
 
 	}
 
