@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("Merging Conflict");
 		System.out.println("Adding Lines");		
 		System.out.println("Adding New Line");
+		System.out.println("Adding Second Line");
 
 	}
 
