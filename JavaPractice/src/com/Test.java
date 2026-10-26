@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("Dev Branch Switched");
 		System.out.println("Dev Branch Code Modified");
 		System.out.println("Merge Conflict");
+		System.out.println("Pull code from Main");
 	 }
 
 }
